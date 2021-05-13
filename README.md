@@ -3,7 +3,7 @@ A simple recommendation system that takes a text and recommends a product from D
 
 # Intoduction
 
-In this project, I have implemented a simple recommendation system that by receiving a custom text offers the user a product that fits the text from the Digitala site.
+In this project, I have implemented a simple recommendation system that receives a custom text and offers the user a product that fits the text from Digikala.
 This project uses three different datasets:
 1) Data set including Persian web pages and its information.
 2) The data set includes 20,000 articles from the Persian Wikipedia.
