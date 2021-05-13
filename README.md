@@ -13,4 +13,5 @@ This project also uses three different methods to offer products:
 1) Jaccard similarity
 2) Word2Vec
 3) TF-IDF   
+
 Depending on the type of activity, any of these 3 methods can be used.
